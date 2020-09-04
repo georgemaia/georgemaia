@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgemaia/)](https://www.linkedin.com/in/georgemaia/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Georgemaia)](https://t.me/Georgemaia)
+[![GitHub](https://img.shields.io/github/followers/georgemaia?label=follow&style=social)](https://github.com/georgemaia)
+<img src="https://komarev.com/ghpvc/?username=georgemaia" alt="georgemaia" />
+
+<div display="flex">
+  <img src= "https://github-readme-stats.vercel.app/api?username=georgemaia&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="George Maia's github stats">
+</div>
+
 
 <!--
 **georgemaia/georgemaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
