@@ -1,8 +1,23 @@
+
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgemaia/)](https://www.linkedin.com/in/georgemaia/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Georgemaia)](https://t.me/Georgemaia)
-[![GitHub](https://img.shields.io/github/followers/georgemaia?label=follow&style=social)](https://github.com/georgemaia)
-<img src="https://komarev.com/ghpvc/?username=georgemaia" alt="georgemaia" />
+  <br/>
+  <a href="https://www.linkedin.com/in/georgemaia/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgemaia/">
+  </a>
+  
+  <a href="https://t.me/Georgemaia">
+    <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Georgemaia)">  
+  </a>
+
+  <a href="https://github.com/georgemaia">
+    <img src="https://img.shields.io/github/followers/georgemaia?label=follow&style=social">  
+  </a>
+ 
+  <a href="https://www.instagram.com/georgemaia">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=georgemaia" alt="georgemaia" />
 </p>
 
 <div align = "center">
