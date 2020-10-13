@@ -23,7 +23,7 @@
 <div align = "center">
   <img src= "https://github-readme-stats.vercel.app/api?username=georgemaia&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="George Maia's github stats" width="495" height="195">
 
-  <embed src="https://wakatime.com/share/@georgemaia/ef99371d-ba47-41b3-a200-6f07ee02cd1f.svg"></embed>
+  <img src="https://wakatime.com/share/@georgemaia/3c47d818-c2ce-440c-a2c1-7d837cb401a3.png" />
 </div>
 
 
