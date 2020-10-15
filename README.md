@@ -1,5 +1,8 @@
-
 <p align="center">
+
+  <a href="https://georgemaia.github.io/" target="_blank">
+    <img src="screenshot.png" width="495" height="234">
+  </a>
   <br/>
   <a href="https://www.linkedin.com/in/georgemaia/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgemaia/">
@@ -23,7 +26,7 @@
 <div align = "center">
   <img src= "https://github-readme-stats.vercel.app/api?username=georgemaia&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="George Maia's github stats" width="495" height="195">
 
-  <img src="https://wakatime.com/share/@georgemaia/3c47d818-c2ce-440c-a2c1-7d837cb401a3.png" />
+  <img src="https://wakatime.com/share/@georgemaia/3c47d818-c2ce-440c-a2c1-7d837cb401a3.png"  width="495" height="371" />
 </div>
 
 
